@@ -1,0 +1,33 @@
+
+.welcome {
+    text-align: center;
+    color : red;
+}
+.user{
+    font-size: 50px;
+    text-align: center;
+    padding : 0em 1em;
+    border:2px solid blue;
+    border-radius: 50px;
+    word-spacing: 5em;
+    
+}
+body{
+
+    /* background-image: url("food.jpeg");  */
+    /* background-image: url("food3.jpg"); */
+    background-repeat: repeat-x;
+    /* background-size: cover; */
+    opacity: 1;   
+    
+}
+table,tr,td {
+border : 2px solid black;
+border-collapse: collapse;
+font-size: 20px;
+margin: 100px 200px;
+margin-bottom: 0px;
+padding: 20px;
+color:rgb(138, 2, 92);
+text-decoration:underline;
+}
